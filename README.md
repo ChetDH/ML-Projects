@@ -2,6 +2,9 @@
  Projects for Mahcine Learning Grad Course.
  
  Projects: <br />
- *Employee Data Decision Trees <br />
- *Employee Data Logistic Regression <br />
- *Bike Data Ridge and Lasso
+ 1. Employee Data Decision Trees <br />
+     *Explore variables of interest to see if they can be key predictors of attrition.
+ 2. Employee Data Logistic Regression <br />
+     *Explore variables of interest to see if they can be key predictors of attrition.
+ 3. Bike Data Ridge and Lasso
+     *Determine wich variables are most impactful to bike rentals.
